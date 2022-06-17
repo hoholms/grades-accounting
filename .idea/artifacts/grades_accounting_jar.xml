@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="grades-accounting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/grades_accounting_jar</output-path>
+    <root id="archive" name="grades-accounting.jar">
+      <element id="module-output" name="grades-accounting" />
+    </root>
+  </artifact>
+</component>
